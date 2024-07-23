@@ -52,8 +52,9 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 7. **Welcome Email:** Sent automated welcome emails with access details to new hires.
 8. **Monitoring and Review:** Ensured smooth operations through monitoring and reviewing the onboarding process.
 
-**Contact:**
-Thank you for visiting my profile! Let's connect and explore the world of cloud computing together.
+## Contact:
+Thank you for visiting my profile! 
+Let's connect and explore the world of cloud computing together.
 LinkedIn: https://www.linkedin.com/in/vivek-vashisht04/
 
 <div align="center">
