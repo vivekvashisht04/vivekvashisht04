@@ -1,8 +1,3 @@
-# Vivek Vashisht's Professional Profile
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a555de09-d4fb-4b10-a4b3-999031c1eac5" alt="Cloud Computing Banner">
-</div>
-
 ## Welcome to My GitHub Profile!
 
 <div align="center">
