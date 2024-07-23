@@ -60,3 +60,8 @@ LinkedIn: https://www.linkedin.com/in/vivek-vashisht04/
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhxcXM2cTczazFvdXhrY2hoZTE5czRlenRsaWFkcW1paW93aDdhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KktZLPCI8d8j5TF2M0/giphy.webp" alt="Cloud Computing">
 </div>
+
+
+![ezgif-6-a9a0737c3b](https://github.com/user-attachments/assets/a3017f02-fdd9-468c-bd83-e48534d14b76)
+
+
