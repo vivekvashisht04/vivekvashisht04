@@ -1,9 +1,10 @@
 # Vivek Vashisht's Professional Profile
-![Cloud Computing Banner](https://images.unsplash.com/photo-1504639725590-34d0984388bd)
+![Cloud Computing Banner](![image](https://github.com/user-attachments/assets/5b7b3276-0c69-4a13-b566-28037305ba8d)
+)
 
 ## Welcome to My GitHub Profile!
 
-![Profile Animation](https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif)
+![Profile Animation](https://cdnl.iconscout.com/lottie/premium/thumb/cloud-technology-8365665-6640120.mp4)
 
 ## About Me:
 
