@@ -6,9 +6,8 @@
 ## Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-6-a9a0737c3b.gif" alt="Profile Animation">
+  <img src="https://github.com/user-attachments/assets/bad76ba9-2457-4199-b7f6-13f64df13154" alt="Profile Animation">
 </div>
-
 
 ## About Me:
 
