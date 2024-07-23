@@ -1,9 +1,11 @@
 # Vivek Vashisht's Professional Profile
-![Cloud Computing Banner](https://images.unsplash.com/photo-1504639725590-34d0984388bd)
+![Cloud Computing Banner](![image](https://github.com/user-attachments/assets/a555de09-d4fb-4b10-a4b3-999031c1eac5)
+)
 
 ## Welcome to My GitHub Profile!
 
-![Profile Animation](https://cdnl.iconscout.com/lottie/premium/thumb/cloud-technology-8365665-6640120.mp4)
+![Profile Animation](![image](https://github.com/user-attachments/assets/3ca9160d-1251-4ef1-b100-3e29a1de10b1)
+)
 
 ## About Me:
 
@@ -53,6 +55,7 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 7. **Welcome Email:** Sent automated welcome emails with access details to new hires.
 8. **Monitoring and Review:** Ensured smooth operations through monitoring and reviewing the onboarding process.
 
-![Cloud Computing](https://images.unsplash.com/photo-1518770660439-4636190af475)
+![Cloud Computing](![image](https://github.com/user-attachments/assets/12ae7df2-8e40-4bed-95d3-57fd51043972)
+)
 
 Thank you for visiting my profile! Let's connect and explore the world of cloud computing together.
