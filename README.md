@@ -3,7 +3,7 @@
 
 ## Welcome to My GitHub Profile!
 
-![Profile Animation](https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif)
+![Profile Animation](https://cdnl.iconscout.com/lottie/premium/thumb/cloud-technology-8365665-6640120.mp4)
 
 ## About Me:
 
