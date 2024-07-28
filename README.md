@@ -52,7 +52,8 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 7. **Welcome Email:** Sent automated welcome emails with access details to new hires.
 8. **Monitoring and Review:** Ensured smooth operations through monitoring and reviewing the onboarding process.
 
-🌟 **Project: ShareSafely - Secure File Sharing Web App**
+
+### 🌟 Project: ShareSafely
 
 **Objective:** Provide a secure platform for file sharing with time-limited access control.
 
