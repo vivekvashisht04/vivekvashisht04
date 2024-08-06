@@ -68,6 +68,24 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 - **Monitoring and Alerts:** Set up Azure Monitor to track performance metrics and configure alerts for critical issues.
 
 
+### 🌟 Project: VM Fleet Commander
+
+**Objective:** Implement an infrastructure-as-code approach to provision and manage virtual machines in Azure, using ARM templates and Bicep.
+
+**Azure Services Used:** Azure Virtual Machines, Azure Resource Manager (ARM), Bicep.
+
+🔧 **Key Features:**
+
+- **Initial Setup:** Configured Azure CLI with Bicep support and set up Git for version control to track changes in Bicep and ARM templates.
+- **Bicep Basics:** Practiced converting ARM templates to Bicep using az bicep decompile, enhancing understanding and efficiency.
+- **Resource Group Creation:** Defined a Bicep file (resource-group.bicep) to create an Azure Resource Group for VMs, facilitating organized resource management.
+- **Virtual Machine Provisioning:** Created a Bicep module (vm.bicep) for deploying Azure VMs with parameterized inputs, including VM size, name, and region. Implemented loops for multiple VM instances.
+- **Network Resources:** Designed a Bicep module (network.bicep) for networking resources like Virtual Network, Subnet, NIC, Public IP, and NSG, ensuring secure and efficient networking.
+- **Deployment:** Validated and deployed Bicep templates across development, testing, and production environments, ensuring reproducibility and consistency.
+- **Maintenance & Updates:** Updated parameters, redeployed resources, and ensured regular updates to Bicep and Azure CLI, maintaining infrastructure health.
+- **Cleanup:** Deleted resource groups after testing to avoid unnecessary costs using az group delete.
+
+
 ## Contact:
 Thank you for visiting my profile! 
 Let's connect and explore the world of cloud computing together.
