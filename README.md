@@ -53,6 +53,8 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 8. **Monitoring and Review:** Ensured smooth operations through monitoring and reviewing the onboarding process.
 
 
+
+
 ### 🌟 Project: ShareSafely
 
 **Objective:** Provide a secure platform for file sharing with time-limited access control.
@@ -66,6 +68,8 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 - **Secure Credentials:** Utilized Azure Key Vault to securely manage sensitive credentials.
 - **Automated Cleanup:** Implemented Azure Functions to automatically clean up expired files, ensuring efficient storage management.
 - **Monitoring and Alerts:** Set up Azure Monitor to track performance metrics and configure alerts for critical issues.
+
+
 
 
 ### 🌟 Project: VM Fleet Commander
@@ -86,6 +90,8 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 - **Cleanup:** Deleted resource groups after testing to avoid unnecessary costs using az group delete.
 
 
+
+
 ### 🌟 Project: NetMaze Explorer
 
 **Objective:** Design and implement a hybrid networking environment where on-premises networks connect securely to Azure resources, showcasing expertise in Azure networking services.
@@ -102,6 +108,8 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 - **Private Access:** Utilized Azure Private Link for secure, private access to Azure PaaS services like Azure SQL Database, ensuring sensitive data remains within a protected network.
 - **Load Balancing:** Configured Azure Load Balancer to distribute traffic across VMs in the WebApp subnet, improving reliability, availability, and overall performance.
 - **Monitoring & Alerts:** Enabled diagnostics and monitoring on VPN Gateways, NSGs, and other critical resources, and set up alerts for suspicious activities, ensuring proactive management and security.
+
+
 
 
 
