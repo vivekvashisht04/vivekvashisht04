@@ -86,6 +86,25 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 - **Cleanup:** Deleted resource groups after testing to avoid unnecessary costs using az group delete.
 
 
+### 🌟 Project: NetMaze Explorer
+
+**Objective:** Design and implement a hybrid networking environment where on-premises networks connect securely to Azure resources, showcasing expertise in Azure networking services.
+
+**Azure Services Used:** Azure Virtual Networks, Azure VPN Gateway, Network Security Groups (NSGs), Azure Bastion, Azure Private Link, Azure DNS, Azure Load Balancer.
+
+🔧 **Key Features:**
+
+- **Initial Setup:** Configured resource groups and virtual networks in Azure regions to simulate both on-premises and cloud environments, establishing a foundational network structure.
+- **Site-to-Site VPN:** Established a secure VPN connection between on-premises networks and Azure using Azure VPN Gateway and Local Network Gateway, ensuring encrypted data transmission.
+- **Resource Deployment:** Deployed multiple virtual machines across different subnets, simulating a full-stack environment with Web, Database, and Admin VMs to mimic real-world scenarios.
+- **Network Access Control:** Enforced Network Security Groups (NSGs) to control inbound and outbound traffic, ensuring secure access to resources and minimizing exposure to potential threats.
+- **Secure Connectivity:** Implemented Azure Bastion for secure RDP and SSH access to VMs without exposing them to the public internet, enhancing security and administrative access.
+- **Private Access:** Utilized Azure Private Link for secure, private access to Azure PaaS services like Azure SQL Database, ensuring sensitive data remains within a protected network.
+- **Load Balancing:** Configured Azure Load Balancer to distribute traffic across VMs in the WebApp subnet, improving reliability, availability, and overall performance.
+- **Monitoring & Alerts:** Enabled diagnostics and monitoring on VPN Gateways, NSGs, and other critical resources, and set up alerts for suspicious activities, ensuring proactive management and security.
+
+
+
 ## Contact:
 Thank you for visiting my profile! 
 Let's connect and explore the world of cloud computing together.
