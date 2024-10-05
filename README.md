@@ -112,6 +112,25 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 
 
 
+### 🌟 Project: InsightScape
+
+**Objective:** Design and deploy an integrated monitoring and maintenance framework using Azure services to ensure comprehensive visibility, security, and performance optimization across cloud environments.
+
+**Azure Services Used:** Azure Monitor, Azure Log Analytics, Kusto Query Language (KQL), Azure Application Insights, Azure Network Watcher, Azure Security Center, Azure Backup, Azure Alerts.
+
+🔧 **Key Features:**
+
+- **Initial Setup:** Configured core Azure resources, including Virtual Machines, Web App, Blob Storage, Logic App, and Networking Resources, to create a foundation for monitoring and maintenance.
+- **Resource Monitoring Integration:** Deployed Azure Monitor with VM Insights, integrating monitoring for VMs, Web App, and Logic App to provide health, performance, and usage insights.
+- **Log Analytics & KQL Queries:** Utilized Azure Log Analytics with Kusto Query Language (KQL) to craft queries for real-time insights across infrastructure—monitoring metrics such as CPU utilization, memory availability, disk space, and workflow actions.
+- **Application Insights:** Integrated Application Insights with the Web App for in-depth analysis, including performance, response times, user interactions, failures, and live metrics.
+- **Network Monitoring:** Leveraged Azure Network Watcher tools like Packet Capture, NSG Diagnostics, and Topology View to monitor and visualize network connectivity, ensuring optimal performance and identifying bottlenecks.
+- **Security & Compliance:** Strengthened resource security using Azure Security Center and Microsoft Defender for Cloud, addressing vulnerabilities, securing VMs, encrypting disks, and implementing secure networking rules.
+- **Custom Alerts:** Configured alerts for anomalies, including failed RDP login attempts, Logic App execution failures, and HTTP 5xx errors, ensuring proactive incident response and reduced downtime.
+- **Backup & Disaster Recovery:** Implemented Azure Backup for VM recovery, including a successful disaster recovery test by restoring a deleted VM using Azure Recovery Services.
+
+
+
 
 ## Contact:
 Thank you for visiting my profile! 
