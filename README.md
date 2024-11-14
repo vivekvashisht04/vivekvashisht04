@@ -33,7 +33,7 @@ I have completed the following 11 labs as part of my coursework:
 
 ## Projects:
 
-I have started working on projects based on the scope of AZ-104 to demonstrate my hands-on capabilities and skills. Here is a highlight of a recently completed project:
+Here is a highlight of a recently completed project:
 
 ### 🌟 Project: Onboard Automator
 
