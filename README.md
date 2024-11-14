@@ -33,8 +33,6 @@ I have completed the following 11 labs as part of my coursework:
 
 ## Projects:
 
-Here is a highlight of a recently completed project:
-
 ### 🌟 Project: Onboard Automator
 
 **Objective:** Automate employee onboarding to Microsoft Entra ID (Azure AD) and assign Azure resources.
