@@ -132,6 +132,26 @@ I have started working on projects based on the scope of AZ-104 to demonstrate m
 
 
 
+### 🌟 Project: AWS TerraOps
+
+**Objective:** Design and deploy a scalable, automated infrastructure on AWS to optimize performance, resilience, and cost-efficiency using Infrastructure as Code.
+
+**AWS Services Used:** EC2, VPC, Auto Scaling Groups, Application Load Balancer (ALB), Route 53, CloudWatch, S3, IAM Roles & Policies.
+
+🔧 **Key Features:**
+
+- **Automated Infrastructure Deployment:** Used Terraform to automate provisioning and configuration of EC2 instances, VPCs, Load Balancers, and networking components across regions.
+- **Auto Scaling & Load Balancing:** Configured Auto Scaling Groups and Application Load Balancers to ensure high availability and performance by automatically adjusting capacity based on demand.
+- **Multi-Region Failover:** Set up Route 53 health checks and failover policies, enabling seamless switching between primary and secondary regions for enhanced reliability.
+- **Nginx Server Automation:** Configured EC2 instances to automatically install and set up Nginx via user data scripts, ensuring consistent application deployment.
+- **Centralized Monitoring:** Integrated AWS CloudWatch for real-time performance metrics, alerts, and logging, allowing proactive monitoring and issue resolution.
+- **Self-Healing Infrastructure:** Designed Auto Scaling Groups to dynamically manage EC2 instances, adapting to traffic spikes and maintaining optimal performance.
+- **Cost Efficiency:** Leveraged Infrastructure as Code (IaC) to deploy and manage resources only as needed, minimizing costs without sacrificing availability.
+- **Version Control & Documentation:** Utilized GitHub for version control and created a detailed manual with step-by-step instructions and screenshots to document the project workflow.
+
+
+
+
 ## Contact:
 Thank you for visiting my profile! 
 Let's connect and explore the world of cloud computing together.
