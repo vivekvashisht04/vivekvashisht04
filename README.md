@@ -6,14 +6,19 @@
 
 ## About Me:
 
-I am currently pursuing a diploma in ITS (Information Technology Services) with a keen interest in cloud computing. I hold multiple cloud certifications:
+Hi, I’m Vivek, a Certified Cloud Engineer and a recent graduate in Information Technology Services (ITS) from Southern Alberta Institute of Technology (SAIT). I hold multiple cloud certifications:
 
 - **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - **AWS Certified Cloud Practitioner (CLF-CO2)**
 - **HashiCorp Certified: Terraform Associate (HCTA0-003)** ☁️
 
-My goal is to continually upgrade my skills and knowledge in cloud technologies. I plan to attain further certifications and develop projects to showcase my hands-on cloud skills 🚀. As an aspiring Cloud Engineer and Administrator, I view cloud technology as pivotal to today's digital era. I am actively seeking hands-on experiences and opportunities in cloud solutions. With a solid history of academic dedication, I am committed to excellence in the IT field. I am eager to connect with professionals and peers for collaboration and insights in the cloud domain 🌐.
+Over the past year, I’ve worked on six hands-on cloud projects, showcasing my expertise in Azure, AWS, and Terraform. These projects include automating AWS multi-region deployments, designing secure hybrid networks, and provisioning resources using Infrastructure as Code (IaC).
+
+I am passionate about delivering secure, scalable cloud solutions and continuously upgrading my skills in cloud technologies. I aim to earn advanced certifications and develop impactful projects to stay at the forefront of the cloud industry 🚀.
+
+As a dedicated and adaptable professional, I am always eager to collaborate with peers and connect with cloud enthusiasts to exchange ideas and insights. Let’s work together to innovate and optimize the future of cloud technology 🌐.
+
 
 ## Real-World Experience:
 
